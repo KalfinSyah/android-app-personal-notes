@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Read Write File</string>
+    <string name="new_file">NEW FILE</string>
+    <string name="open_file">OPEN FILE</string>
+    <string name="save_file">SAVE FILE</string>
+    <string name="title">Title</string>
+    <string name="dummy">dummy</string>
+    <string name="write_something_here">Write something here....</string>
+</resources>
